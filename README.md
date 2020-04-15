@@ -1,4 +1,4 @@
-##Budget Tracker
+## Budget Tracker
 
 ## User Story
 AS AN avid traveller
